@@ -97,8 +97,6 @@ Using the DataFrame of Average values per neighborhood (calculated above), creat
 
 In this final section, you will read in neighborhood location data and build an interactive map with the average prices per neighborhood. Use a scatter mapbox object from plotly express to create the visualization. Remember, you will need your mapbox API key for this.
 
-Remember that in order to create maps visualizations using Plotly Express, you will need to create an account at [mapbox](https://www.mapbox.com/) and [create an access token](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/#creating-and-managing-access-tokens).
-
   ![neighborhood-map.png](Images/neighborhood-map.png)
 
 ### Dashboard
@@ -110,19 +108,3 @@ Create a new `dashboard.ipynb` for your dashboard code. Copy over the code for e
 Sample Dashboard:
 
   ![dashboard-demo.gif](Images/dashboard-demo.gif)
-
----
-
-### Submission
-
-* Create separate notebooks for the analysis and the dashboard and upload these to Github.
-
-* Complete your README to explain how to run and use your dashboard.
-
-* Note: You should not submit your `mapbox` access token to Github!
-
-* Submit the Github URL repository to Bootcampspot.
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
